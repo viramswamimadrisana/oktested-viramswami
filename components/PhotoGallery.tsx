@@ -140,7 +140,7 @@ const PhotoGallery = () => {
 
         <div className="text-center mt-10">
                  <motion.a
-            href="/videos"
+            href="/photos"
             className="bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 text-white font-semibold py-3 px-8 rounded-full transition-all duration-300 shadow-md hover:shadow-lg inline-flex items-center"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
