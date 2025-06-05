@@ -1,4 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap><loc>https://vadwaladhammadrisana.in/sitemap-0.xml</loc></sitemap>
-</sitemapindex>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/schedule</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/donate</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/history</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/books</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/photos</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/videos</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/music</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/about-us</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/privacy-policy</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/disclaimer</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/terms-of-service</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/terms-and-conditions</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/contact-us</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.vadwaladhammadrisana.in/support</loc>
+  <lastmod>2025-06-05T09:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
