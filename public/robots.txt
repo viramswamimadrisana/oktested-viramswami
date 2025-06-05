@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vadwaladhammadrisana.in
+
+# Sitemaps
+Sitemap: https://vadwaladhammadrisana.in/sitemap.xml
